@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/fifmka.io/goit-react-hw-02-phonebook/static/css/main.f278bdd5.css",
-    "main.js": "/fifmka.io/goit-react-hw-02-phonebook/static/js/main.16a0af19.js",
+    "main.css": "/fifmka.io/goit-react-hw-02-phonebook/static/css/main.8a2f4170.css",
+    "main.js": "/fifmka.io/goit-react-hw-02-phonebook/static/js/main.8ece4258.js",
     "index.html": "/fifmka.io/goit-react-hw-02-phonebook/index.html",
-    "main.f278bdd5.css.map": "/fifmka.io/goit-react-hw-02-phonebook/static/css/main.f278bdd5.css.map",
-    "main.16a0af19.js.map": "/fifmka.io/goit-react-hw-02-phonebook/static/js/main.16a0af19.js.map"
+    "main.8a2f4170.css.map": "/fifmka.io/goit-react-hw-02-phonebook/static/css/main.8a2f4170.css.map",
+    "main.8ece4258.js.map": "/fifmka.io/goit-react-hw-02-phonebook/static/js/main.8ece4258.js.map"
   },
   "entrypoints": [
-    "static/css/main.f278bdd5.css",
-    "static/js/main.16a0af19.js"
+    "static/css/main.8a2f4170.css",
+    "static/js/main.8ece4258.js"
   ]
 }
