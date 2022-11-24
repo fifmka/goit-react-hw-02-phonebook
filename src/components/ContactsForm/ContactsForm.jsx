@@ -18,7 +18,6 @@ export class ContactsForm extends Component {
 
   handleSubmit = evt => {
     evt.preventDefault();
-
     const contactInfo = {
       id: nanoid(),
       name: this.state.name,
@@ -67,6 +66,4 @@ export class ContactsForm extends Component {
 
 ContactsForm.propTypes = {
   onAddContactInfo: PropTypes.func.isRequired,
-  name: PropTypes.string.isRequired,
-  value: PropTypes.string.isRequired,
 };
